@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @duff87
+- 👀 I’m interested in Full Stack Developing
+- 🌱 I’m currently learning Html, Css, Javascript, C++, C# and Python
+- 📫 How to reach me cepeledario4@gmail.com
